@@ -1,0 +1,50 @@
+LICENÇA DE USO DO RADAR DE VAGAS
+
+Copyright (c) 2026 Pedro Moura Araujo. Todos os direitos reservados.
+
+O Radar de Vagas ("o Programa") é GRATUITO para uso pessoal, mas NÃO é software de código aberto. Ao baixar, instalar
+ou usar o Programa, você concorda com os termos abaixo.
+
+1. O QUE VOCÊ PODE FAZER
+   a) Usar o Programa, sem pagar, para uso pessoal e não comercial, nos seus computadores, na sua própria busca de emprego.
+   b) Indicar o Programa a outras pessoas e compartilhar, de graça, uma cópia INALTERADA do arquivo oficial (o
+      instalador "Radar-de-Vagas.exe" ou, nas versões anteriores, o arquivo .zip), para uso pessoal delas.
+
+2. O QUE VOCÊ NÃO PODE FAZER, sem autorização por escrito do autor
+   a) Copiar, modificar, traduzir, adaptar ou criar obras derivadas do Programa ou de qualquer parte dele.
+   b) Vender, alugar, sublicenciar, oferecer como serviço (inclusive cobrando por recolocação, consultoria ou
+      mentoria que use o Programa) ou incluir o Programa, ou partes dele, em outro produto ou serviço.
+   c) Publicar o código do Programa, ou partes dele, em qualquer lugar, ou remover avisos de autoria e licença.
+   d) Usar o Programa em atividade comercial ou em nome de empresa.
+   e) Fazer engenharia reversa, descompilar ou desmontar o Programa, exceto no que a lei permitir expressamente.
+
+3. COMPONENTES DE TERCEIROS
+   O Programa usa componentes de código aberto de terceiros, que continuam sob as licenças próprias deles, entre eles:
+   Python (PSF), pandas e NumPy (BSD), pywebview (BSD), pdf.js (Apache 2.0), tesseract.js e dados de idioma do
+   Tesseract (Apache 2.0). O programa é montado com o PyInstaller (GPL com exceção para programas montados) e
+   o instalador com o Inno Setup. A lista completa, com o aviso de licença de cada componente, acompanha o Programa:
+   no programa, em Sobre > Licenças de terceiros (arquivo LICENCAS_DE_TERCEIROS.txt, na pasta onde ele é instalado).
+   Esta licença não altera os direitos que esses componentes dão a você.
+
+4. VERSÕES ANTERIORES
+   As versões 1.6.0 e 1.6.1 foram publicadas antes desta licença, sob a licença MIT, e continuam regidas por ela.
+   Esta licença vale para a versão 1.6.2 e as seguintes.
+
+5. SITES DE TERCEIROS
+   O Programa lê, no seu computador, só sites de vagas que permitem a leitura por robôs: antes de cada página ele confere
+   as regras do site (robots.txt), se identifica como Radar de Vagas, faz pausas e para quando o site recusa. Ele não
+   usa login e não se candidata. Esses sites têm regras próprias; ao usar o Programa, você concorda em respeitá-las.
+   O Radar de Vagas não tem vínculo, parceria nem autorização desses sites, e as marcas citadas pertencem aos donos.
+
+6. SEM GARANTIA
+   O Programa é oferecido "COMO ESTÁ", sem garantia de qualquer tipo, expressa ou implícita, inclusive de que as vagas
+   mostradas existam, estejam abertas ou combinem com você. A nota de cada vaga é uma estimativa. O autor não se
+   responsabiliza por danos, perdas ou decisões tomadas com base no uso do Programa, no limite permitido pela lei.
+
+7. VERSÕES FUTURAS
+   O autor pode mudar os termos de versões futuras e oferecer versões pagas ou com mais recursos. A versão gratuita que
+   você baixou continua sob os termos desta licença.
+
+8. LEI E CONTATO
+   Esta licença é regida pelas leis do Brasil. Dúvidas e pedidos de autorização: abra uma "issue" na página do projeto
+   ou fale com o autor.
